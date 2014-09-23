@@ -5,3 +5,4 @@ build:
     unit: sh pass.sh
     ftest: sh pass.sh
     webdriver: sh pass.sh
+    jsscript: sh fail.sh
