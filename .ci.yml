@@ -1,0 +1,6 @@
+environment:
+  language: java
+build:
+  run: 
+    unit: sh pass.sh
+    webdriver: sh fail.sh
