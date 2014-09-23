@@ -4,3 +4,4 @@ build:
   run: 
     unit: sh pass.sh
     ftest: sh fail.sh
+    webdriver: sh pass.sh
