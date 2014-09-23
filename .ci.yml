@@ -4,6 +4,3 @@ build:
   run: 
     unit: sh pass.sh
     ftest: sh fail.sh
-notifications:
-  - email:
-     - tollins82@gmail.com
