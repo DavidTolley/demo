@@ -1,4 +1,5 @@
 environment:
   language: java
 build:
-  run: sh pass.sh
+  run: 
+    unit: sh pass.sh
