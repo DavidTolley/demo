@@ -3,5 +3,3 @@ environment:
 build:
   run: 
     unit: sh pass.sh
-    integration: sh pass.sh
-    webdriver: pass.sh
