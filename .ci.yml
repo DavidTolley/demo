@@ -3,3 +3,4 @@ environment:
 build:
   run: 
     unit: sh pass.sh
+    ftest: sh fail.sh
