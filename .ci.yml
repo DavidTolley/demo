@@ -8,3 +8,4 @@ build:
     unit: sh pass.sh
     ftest: sh pass.sh
     joel: sh fail.sh
+    webdriver: pass.sh
