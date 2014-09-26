@@ -2,4 +2,4 @@ environment:
   language: java
 build:
   run: 
-    unit: sh fail.sh
+    unit: sh pass.sh
