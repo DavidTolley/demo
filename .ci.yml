@@ -1,5 +1,8 @@
 environment:
   language: java
+  language_versions:
+     - 1.7.1
+     - 1.6.1
 build:
   run: 
     unit: sh pass.sh
